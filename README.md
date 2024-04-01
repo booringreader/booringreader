@@ -18,6 +18,8 @@ On this github page, I am trying to build as many of them as humanly possible be
 #### 🧬 Version Control & Collaboration:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelWidth=20&labelColor=grey&logoWidth=20&logoSvg=curved) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelWidth=20&labelColor=grey&logoWidth=20&logoSvg=curved)
 
+#### 🦠 Browser:
+https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white
 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-1) and [Twitter](https://twitter.com/shubhams1_) for more updates. 
 
 # 📊 GitHub Stats:
