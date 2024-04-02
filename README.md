@@ -34,12 +34,11 @@ GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=booringreader&theme=react&hide_border=false&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=booringreader&theme=react&hide_border=false" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=booringreader&theme=react&hide_border=false" width="440" />
 </p>
-
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312yqputiap3zlmsixty6gadxxqe&width=300&count=2&unique=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=booringreader&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312yqputiap3zlmsixty6gadxxqe&width=300&count=2&unique=true" width="440" height="186.66" />
 </p>
 
 <hr>
