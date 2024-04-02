@@ -24,7 +24,7 @@ On this github page, I am trying to realise as many of them as humanly possible,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=booringreader&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=booringreader&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
