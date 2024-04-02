@@ -32,10 +32,16 @@ STACK
 GITHUB STATS 
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" style="width:200px"> </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=booringreader&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=booringreader&theme=react&hide_border=false)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312yqputiap3zlmsixty6gadxxqe&width=300&count=2&unique=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=booringreader&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=booringreader&theme=react&hide_border=false&include_all_commits=true&count_private=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=booringreader&theme=react&hide_border=false" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312yqputiap3zlmsixty6gadxxqe&width=300&count=2&unique=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=booringreader&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" />
+</p>
+
 <hr>
 
 <!-- trophies -->
