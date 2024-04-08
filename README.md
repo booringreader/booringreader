@@ -16,14 +16,13 @@ STACK
 <!-- ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) -->
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) -->
   
-<h2 align="center";> 🦹 Programming Languages: <br>
+<h2 align="center";> <!-- 🦹 Programming Languages: <br> -->
 <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="40" width="40"> 
 <img src="assets/images/java.png" height="60" width="60">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="40" width="40"> 
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" height="30" width="50">
-<br><br>
-🪤 Tools & Technologies:<br>
+<!-- 🪤 Tools & Technologies:<br> -->
 <img src="assets/images/figma.png" alt="figma" height="40" width="50">
 <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" height="40" width="50">
 <img src="assets/images/gimp.png" alt="gimp" height="40" width="50">
@@ -38,8 +37,8 @@ STACK
 <img src="https://cdn.worldvectorlogo.com/logos/apache-13.svg" alt="apache" height="35" width="60">
 <img src="assets/gifs/android.gif" alt="android" height="40" width="40">
 <img src="https://cdn.worldvectorlogo.com/logos/fedora-1.svg" alt="fedora" height="40" width="40">
-  <br><br>
-🧬 Version Control & Collaboration: <br>
+
+<!-- 🧬 Version Control & Collaboration: <br> -->
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="40" width="40">
 <img src="assets/images/invertocat.png" alt="github" height="40" >
 <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab" height="40">
