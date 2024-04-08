@@ -1,4 +1,4 @@
-![MasterHead](banner.png)
+![MasterHead](assets/images/banner.png)
 <p align="center"> 
 Hello there 👋, nice of you to drop by ... My name is shubham, I seem to be having a critical case of an overly-active imagination, and apparently, a lot of ideas take shape inside this little head of mine.
 On this github page, I am trying to realise as many of them as humanly possible, before I die. Join me while I learn, give up, get back up and continue moving.
