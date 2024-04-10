@@ -51,12 +51,12 @@ GITHUB STATS
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=booringreader&theme=dark&border_radius=6.9&exclude_days=Thu&currStreakLabel=E8E9EB&background=45%2C0B1F25E9%2C45929A&stroke=BCEBCF&ring=8EF5D8&fire=EB8619&border=4D1C1C6C&currStreakNum=DAEBDB&sideNums=E3EBDA)](https://git.io/streak-stats) -->
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=booringreader&theme=dark" width="440" height="173.33">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=booringreader&theme=dark&hide_border=false" width="406"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=booringreader&theme=dark" width="440" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=booringreader&theme=dark&hide_border=false" width="400"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=booringreader&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="440" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312yqputiap3zlmsixty6gadxxqe&width=406&count=2&unique=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=booringreader&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="170" width="400"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312yqputiap3zlmsixty6gadxxqe&width=406&count=2&unique=true" height="170"/>
 </p>
 
 <hr>
