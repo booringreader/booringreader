@@ -1,7 +1,4 @@
 ![MasterHead](assets/images/banner.png)
-<p align="center"> 
-Hello there 👋, nice of you to drop by ... My name is shubham, I seem to be having a critical case of an overly-active imagination, and apparently, a lot of ideas take shape inside this little head of mine.
-On this github page, I am trying to realise as many of them as humanly possible, before I die. Join me while I learn, give up, get back up and continue moving.
 <h3 align="center";>" 𝙵𝙰𝙸𝙻 𝙵𝙰𝚂𝚃, 𝙵𝙰𝙸𝙻 𝙵𝙾𝚁𝚆𝙰𝚁𝙳 🚀 " </h3> 
 </p>
 
@@ -69,16 +66,5 @@ GITHUB STATS
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=booringreader&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 </h1>
-
-<!-- quote -->
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="height:35px"> DEV QUOTE <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="height:35px">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&height=10px) </h1>
-
-<!-- meme -->
-<h1 align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwNTIxMzYsIm5iZiI6MTcxMjA1MTgzNiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU0OTctNDlhYmQzY2EtYjA0OC00ZjI3LWI3ZTAtZWE2YTdiMTcyYWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAyVDA5NTcxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0YTUyZDQ2ZDc4OTYwYjE4MmEwY2M0YzJjOTBlMjJiMjA5OWY2ZTM2ZDUwYjM0MjgxZjljMDRiZmQ0ZmJiMGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YWKggNQBfl2SwuGZCuO7Gn_J134UtjppCdAF731Tbqg" style="height:35px"> 
-  DEV MEME
-  <img src="https://private-user-images.githubusercontent.com/74038190/240885497-49abd3ca-b048-4f27-b7e0-ea6a7b172ac3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwNTIxMzYsIm5iZiI6MTcxMjA1MTgzNiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODU0OTctNDlhYmQzY2EtYjA0OC00ZjI3LWI3ZTAtZWE2YTdiMTcyYWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAyVDA5NTcxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0YTUyZDQ2ZDc4OTYwYjE4MmEwY2M0YzJjOTBlMjJiMjA5OWY2ZTM2ZDUwYjM0MjgxZjljMDRiZmQ0ZmJiMGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YWKggNQBfl2SwuGZCuO7Gn_J134UtjppCdAF731Tbqg" style="height:35px">
-<br><img src='https://randommeme-five.vercel.app/' style="height: 200px;"> </h1>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=booringreader&icon=5&color=12)](https://visitcount.itsvg.in) -->
