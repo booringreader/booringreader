@@ -1,9 +1,6 @@
 ![MasterHead](assets/images/banner.png)
 <h3 align="center";>" 𝙵𝙰𝙸𝙻 𝙵𝙰𝚂𝚃, 𝙵𝙰𝙸𝙻 𝙵𝙾𝚁𝚆𝙰𝚁𝙳 🚀 " </h3> 
 </p>
-
-<!-- Let's team up, collaborate, and bring ideas to life! Reach out, and let's embark on a thrilling journey together. -->
-
 <!-- stats -->
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" style="width:200px">
 GITHUB STATS 
@@ -12,19 +9,19 @@ GITHUB STATS
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=booringreader&theme=dark" width="440" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=booringreader&theme=dark&hide_border=false" width="400"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=booringreader&theme=dark&hide_border=false" width="400"/> -->
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=booringreader&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  height="170" width="400"/>
 <hr>
 
 <!-- trophies -->
-<h1 align="center";> 
-<img src="assets/gifs/jake.gif" style="height:35px"> 
-  GitHub Trophies 
+<!-- <h1 align="center";> 
 <img src="assets/gifs/jake.gif" style="height:35px">
+GitHub Trophies  -->
+<!-- <img src="assets/gifs/jake.gif" style="height:35px"> -->
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=booringreader&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
-</h1>
+  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=booringreader&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
+</h1> -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=booringreader&icon=5&color=12)](https://visitcount.itsvg.in) -->
